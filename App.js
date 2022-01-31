@@ -53,7 +53,7 @@ function sum (){
 
     console.log(sum(5)); */
 
-    const bill = function(tax, ...list){
+ /*    const bill = function(tax, ...list){
         console.log(list);
         let total = 0;
         for(let i =0; i < list.length; i++){
@@ -62,4 +62,23 @@ function sum (){
         return total;
     }
 
-    console.log(bill(0.18, 10,15,20,10))
+    console.log(bill(0.18, 10,15,20,10)) */
+    
+
+/*     function foss (num1,num2){
+let total = 0;
+
+ */
+
+
+
+
+ /* dfuhfsdhaushfguiadhö
+ 
+ sdihf ashdgah
+ 
+ sdpk agjiosdh
+ 
+ dsäükasg ash
+ soöjlashak has
+ dfgjhauh*/
