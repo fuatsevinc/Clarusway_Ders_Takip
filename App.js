@@ -28,7 +28,7 @@ for (let i = 0; i < students.length; i++) {
 
 sayHi(students) */
 
-
+/* 
 function sum (){
     let add = 0;
     // console.log(arguments);
@@ -37,7 +37,7 @@ function sum (){
     }
     return add;
 }
-
+ */
 // console.log(sum(1));
 // console.log(sum(1,2,3,4,5,6));
 
@@ -82,3 +82,8 @@ let total = 0;
  dsäükasg ash
  soöjlashak has
  dfgjhauh*/
+
+/* 
+
+
+ yorum satiri yapma kisayolu (alt sift a)/*  */ */
