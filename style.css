@@ -1,7 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: lightblue;;
+  
+}
+.container{
+  background: linear-gradient(to right,rgb(122, 219, 219),rgb(120, 122, 226));
 }
 
 .title {
