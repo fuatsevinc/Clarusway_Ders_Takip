@@ -1,7 +1,9 @@
 * {
   margin: 0;
-  padding: 0;
-  
+  padding: 0; 
+}
+body{
+  background: linear-gradient(to right,rgb(168, 73, 149),rgb(65, 2, 69));
 }
 .container{
   background: linear-gradient(to right,rgb(122, 219, 219),rgb(120, 122, 226));
@@ -11,6 +13,8 @@
   /* display: flex; */
   /*align-items: top;*/
   justify-content: center;
+  margin-top: 2rem;
+  padding: 2rem;
 }
 
 h1, h2 {
@@ -24,6 +28,10 @@ h1, h2 {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+}
+
+.work{
+  margin-left: 2rem;
 }
 
 @media (max-width:991.98px) {
