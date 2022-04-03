@@ -9,18 +9,14 @@ body{
   background: linear-gradient(to right,rgb(122, 219, 219),rgb(120, 122, 226));
 }
 
-.title {
-  /* display: flex; */
-  /*align-items: top;*/
-  justify-content: center;
-  margin-top: 2rem;
-  padding: 2rem;
-}
-
-h1, h2 {
+h2 {
   font-family: sans-serif;
   text-align: center;
-  color: black;
+  color: rgb(180, 17, 17);
+  text-decoration: none;
+}
+h2:hover{
+  color: rgb(203, 12, 12);
 }
 .logo {
   display: block;
@@ -34,21 +30,6 @@ h1, h2 {
   margin-left: 2rem;
 }
 
-@media (max-width:991.98px) {
-  .padding {
-      padding: 1.5rem
-  }
-}
-
-@media (max-width:767.98px) {
-  .padding {
-      padding: 1rem
-  }
-}
-
-.padding {
-  padding: 10rem
-}
 .table{
   margin: auto;
   padding: 2rem;
